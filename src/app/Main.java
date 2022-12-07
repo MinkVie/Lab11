@@ -14,8 +14,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
-
-    //main
     public static void main(String[] args) throws Exception {
         EmployeeService employeeService = new EmployeeService();
         FlightService flightService = new FlightService();
